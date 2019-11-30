@@ -58,7 +58,7 @@ For comparison, the XY input for an acceleration-based mouse would be this:
 
 ```
 0x81, 0x06,        //     	Input (Data,Var,Rel,No Wrap,Linear,Preferred State,No Null Position) == 16 bits
-`` 
+```
 
 All information regarding the USB HID report descriptors can be found on the official documentation and some tutorials:
 
