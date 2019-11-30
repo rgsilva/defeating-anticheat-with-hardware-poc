@@ -1,6 +1,6 @@
 # Bug's Fake Mouse
 
-This is the code for the proof of concept presented at DEFCON Porto Alegre 2019. The presentation is also attached here for reference, altough it's in Portuguese.
+This is the code for the proof of concept presented at DEFCON Porto Alegre 2019. The presentation is also attached here for reference, but it's in Portuguese.
 
 ## Disclaimer
 
